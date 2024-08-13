@@ -22,7 +22,7 @@ To set up and run the backend server:
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/your-username/trifecta-backend.git
+   git clone https://github.com/aceassured/Trifecta-backend.git
    ```
 2. Install Dependencies:
     ```bash
